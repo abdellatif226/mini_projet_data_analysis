@@ -1,1 +1,26 @@
-.venv
+Fichiers et dossiers spécifiques au projet
+mini_projet.xlsx
+burkina_location.csv
+gounghin.csv
+BF/
+
+Environnement virtuel
+.venv/
+venv/
+env/
+/bin/
+/include/
+/lib/
+/local/
+
+Fichiers spécifiques à Python
+*.pyc
+pycache/
+
+Fichiers spécifiques à Jupyter
+.ipynb_checkpoints
+
+Divers
+.DS_Store
+*.log
+*.sqlite3
