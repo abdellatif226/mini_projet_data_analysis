@@ -1,4 +1,3 @@
 *.xlsx
 *.csv
-readme.txt
-BF.txt
+.venv/
